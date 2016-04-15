@@ -7,3 +7,5 @@ My implementation of the Hangman game in Ruby as part of The Odin Project course
 * Save and load the game using YAML
 * Reading data from text files
 * String manipulation
+
+![Alt text](screenshot.png?raw=true "Hangman")
